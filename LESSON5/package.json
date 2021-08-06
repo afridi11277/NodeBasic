@@ -1,0 +1,22 @@
+{
+  "name": "lesson5",
+  "version": "1.0.0",
+  "description": "npm testing project",
+  "main": "npm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node.js",
+    "nodemon"
+  ],
+  "author": "afridi",
+  "license": "ISC",
+  "dependencies": {
+    "city-timezones": "^1.2.0",
+    "movies-names": "^1.1.1",
+    "name-to-imdb": "^3.0.2",
+    "random-fruits-name": "^1.9.0"
+  }
+}
